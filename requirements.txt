@@ -3,3 +3,4 @@ pandas
 SQLAlchemy
 streamlit
 psycopg2
+plotly
